@@ -2,7 +2,7 @@
 
 **Computer Science Student | Web Developer**
 
-🎓 BS Computer Science Student at @ Quaid-i-Azam University <br>
+🎓 BS Computer Science Student at Quaid-i-Azam University Islamabad <br>
 🌱 Passionate about web development and Problem Solving <br>
 ♟️ I'm a Chess Crazz — love strategy, tactics, and endgames!<br><br>
 [![Chess.com](https://img.shields.io/badge/Chess.com-00A859?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/mirza_muzu)
@@ -42,8 +42,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzaffarCS&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzaffarCS&theme=radical&hide_border=true)
 
