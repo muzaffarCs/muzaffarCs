@@ -49,12 +49,6 @@
 
 </div>
 
-## 🏆 Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muzaffarCs&theme=radical&no-frame=true&row=1&column=6)
-
----
-
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
   <p>Feel free to connect and collaborate on exciting projects!</p>
