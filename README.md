@@ -42,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzaffarCS&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarCS&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=muzaffarCs&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarCs&layout=compact&theme=radical&hide_border=true" />
 </div>
+
+
+
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
